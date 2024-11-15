@@ -13,5 +13,5 @@ A modern, responsive personal portfolio website template to showcase your work, 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-Click here to view the live demo []
+Click here to view the live demo:- [https://shorturl.at/SfwUQ]
   
